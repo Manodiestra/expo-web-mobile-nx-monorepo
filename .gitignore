@@ -55,6 +55,4 @@ npm-debug.*
 *.orig.*
 web-build/
 cache/
-
-
 apps/expo-monorepo-e2e/artifacts
